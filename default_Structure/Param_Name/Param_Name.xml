@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Struct Name="Param_Name">
+    <Struct_Components>
+        <Head_id value="Param_Name"/>
+        <Params count="1">
+            <Param Name="Name" Type="String"/>
+        </Params>
+        <Separator value=""/>
+        <ParamBorder Closer=">" Opener="<"/>
+        <BodyBorder Closer="" Opener=""/>
+    </Struct_Components>
+    <Model>
+        <model Link="Param_Name.mdl" id="0"/>
+    </Model>
+    <base_Language>
+    </base_Language>
+</Struct>

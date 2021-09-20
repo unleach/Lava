@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Struct Name="Language">
+    <Struct_Components>
+        <Head_id value="Language"/>
+        <Params count="2">
+            <Param Name="LanguageName" Type="String"/>
+            <Param Name="FileLink" Type="String"/>
+        </Params>
+        <Separator value=""/>
+        <ParamBorder Closer=">" Opener="<"/>
+        <BodyBorder Closer="}" Opener="{"/>
+    </Struct_Components>
+    <Model>
+        <model Link="Language.mdl" id="0"/>
+    </Model>
+    <base_Language>
+    </base_Language>
+</Struct>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Struct Name="Define_Model">
+    <Struct_Components>
+        <Head_id value="Define_Model"/>
+        <Params count="0">
+        </Params>
+        <Separator value=""/>
+        <ParamBorder Closer="" Opener=""/>
+        <BodyBorder Closer="}" Opener="{"/>
+    </Struct_Components>
+    <Model>
+        <model Link="Define_Model.mdl" id="0"/>
+    </Model>
+    <base_Language>
+    </base_Language>
+</Struct>

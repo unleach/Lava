@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Struct Name="test">
+    <Struct_Components>
+        <Head_id value="test"/>
+        <Params count="2">
+            <Param Name="Param1" Type="String"/>
+            <Param Name="Param1" Type="String"/>
+        </Params>
+        <Separator value="test"/>
+        <ParamBorder Closer=")" Opener="("/>
+        <BodyBorder Closer="}" Opener="{"/>
+    </Struct_Components>
+    <Model>
+        <model Link="test" id="test"/>
+    </Model>
+    <base_Language>
+        <BSF language="test" link="test"/>
+    </base_Language>
+</Struct>
